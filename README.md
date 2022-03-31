@@ -5,6 +5,6 @@ Here we are going to apply LDA to a set of documents and split them into topics.
 
 **Data: 
 **
-The Data is downloaded using Reddit's PRAW API you can find details on one of my other repositories for that
+The Data is downloaded using Reddit's PRAW API, this data is about Electric vehicle industry, the trends immediately after the Russia-Ukraine war and the rise of fuel prices you can find details on one of my other repositories for that
 
 Enjoy the code !
